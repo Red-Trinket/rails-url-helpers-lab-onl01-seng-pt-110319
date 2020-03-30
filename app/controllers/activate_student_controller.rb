@@ -1,6 +1,6 @@
 class ActivateStudentController < ApplicationController
   
-  def activate 
+  def show 
     @student = Student.find(params[:id])
   end 
 
