@@ -1,3 +1,3 @@
-ActivateStudentController < ApplicationController
+class ActivateStudentController < ApplicationController
 
 end 
